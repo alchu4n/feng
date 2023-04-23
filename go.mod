@@ -1,4 +1,4 @@
-module github.com/ac0d3r/macoder
+module github.com/ac0d3r/feng
 
 go 1.19
 

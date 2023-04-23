@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 
-	"github.com/ac0d3r/macoder/pkg/appvuln"
-	"github.com/ac0d3r/macoder/pkg/macho"
+	"github.com/ac0d3r/feng/pkg/appvuln"
+	"github.com/ac0d3r/feng/pkg/macho"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
 

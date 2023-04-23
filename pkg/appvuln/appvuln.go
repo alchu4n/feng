@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/ac0d3r/macoder/pkg/macho"
+	"github.com/ac0d3r/feng/pkg/macho"
 	"howett.net/plist"
 )
 
